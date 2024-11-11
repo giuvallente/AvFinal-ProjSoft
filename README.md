@@ -1,3 +1,1 @@
 # AvFinal-ProjSoft
-
-Av Final
